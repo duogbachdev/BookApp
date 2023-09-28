@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "161403854663",
+    "project_id": "duogbachdev",
+    "storage_bucket": "duogbachdev.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:161403854663:android:c437b3f3256f5120a1b662",
+        "android_client_info": {
+          "package_name": "com.example.book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_WRTJrhzgHE9dQL3WlQyl4i0VXS1ZY-A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
