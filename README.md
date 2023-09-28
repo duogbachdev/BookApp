@@ -4,7 +4,6 @@
 
 ```
 $ git clone https://git_url_clone <project_dir>
-
 ```
 > Note: `--Open the project and let it automatically import all the libraries`.
 
